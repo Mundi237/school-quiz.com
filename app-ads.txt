@@ -1,5 +1,5 @@
-# Fournisseurs autorisés
+# Fournisseurs
 google.com, DIRECT, f08c47fec0942fa0
 
-# Domaine de votre site Web
+# Domaine
 mundi237.github.io/school-quiz.com, DIRECT
