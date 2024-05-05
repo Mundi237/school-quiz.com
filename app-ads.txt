@@ -1,3 +1,5 @@
- google.cm, pub-4514332068102602, DIRECT, f08c47fec0942fa0SS
-# Votre domaine
-https://mundi237.github.io/school-quiz.com,
+# Fournisseurs autorisés
+google.com, DIRECT, f08c47fec0942fa0
+
+# Domaine de votre site Web
+mundi237.github.io/school-quiz.com, DIRECT
